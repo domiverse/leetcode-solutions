@@ -4,7 +4,7 @@ Chào mừng bạn đến với kho lưu trữ các lời giải LeetCode của 
 
 ## 📊 Thống kê của tôi
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Domm2000&theme=dark)
+![Domm2000's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Domm2000&theme=dark)
 
 ---
 
