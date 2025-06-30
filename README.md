@@ -4,7 +4,7 @@ Chào mừng bạn đến với kho lưu trữ các lời giải LeetCode của 
 
 ## 📊 Thống kê của tôi
 
-![Domm2000's LeetCode Stats](https://leet-code-stats.vercel.app/api/Domm2000?theme=dark)
+![Domm2000's LeetCode Stats]![LeetCode Stats](https://leetcard.jacoblin.cool/Domm2000?theme=dark&font=Piazzolla&ext=heatmap)
 
 
 ## 📚 Bảng các lời giải
