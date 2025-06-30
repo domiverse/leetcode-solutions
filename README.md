@@ -15,8 +15,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | # | Tên bài toán | Lời giải | Ngôn ngữ | Độ khó |
 |:---:|:--- |:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.java) | `Java` | 🟢 Easy |
-| | *Thêm các bài giải mới của bạn ở đây...* | | | |
-
+| 2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.java) | `Java` | 🟢 Easy |
 
 ---
 
