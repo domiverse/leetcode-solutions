@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-# leetcode-solutions
-=======
 # 🚀 Hành trình chinh phục LeetCode của tôi 🚀
 
 Chào mừng bạn đến với kho lưu trữ các lời giải LeetCode của tôi! Đây là nơi tôi ghi lại hành trình rèn luyện kỹ năng giải quyết vấn đề và cấu trúc dữ liệu & giải thuật qua các bài toán trên LeetCode.
 
 ## 📊 Thống kê của tôi
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Domm2000&theme=dark)
+![Domm2000's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Domm2000&theme=dark)
 
 ---
 
