@@ -4,9 +4,8 @@ Chào mừng bạn đến với kho lưu trữ các lời giải LeetCode của 
 
 ## 📊 Thống kê của tôi
 
-![Domm2000's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Domm2000&theme=dark)
+![Domm2000's LeetCode Stats](https://leet-code-stats.vercel.app/api/Domm2000?theme=dark)
 
----
 
 ## 📚 Bảng các lời giải
 
@@ -15,6 +14,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | # | Tên bài toán | Lời giải | Ngôn ngữ | Độ khó |
 |:---:|:--- |:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.java) | `Java` | 🟢 Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.java) | `Java` | 🟧 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.java) | `Java` | 🟢 Easy |
 
 ---
