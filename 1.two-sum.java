@@ -10,19 +10,20 @@ import java.util.HashMap;
 import java.util.Map;
 
 class Solution {
-    public int[] twoSum(int[] nums, int tong) {
+    public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             map.put(nums[i], i);
         }
         for (int i = 0; i < nums.length; i++) {
-            int phan_bu = tong - nums[i];
-            if (map.containsKey(phan_bu) && map.get(phan_bu) !=i){
-                return new int[] {i, map.get(phan_bu)};
+            int complement = target - nums[i];
+            if (map.containsKey(complement) && map.get(complement) != i) {
+                return new int[] { i, map.get(complement) };
             }
         }
-        return new int[]{};
-}}
+        return new int[] {};
+    }
+}
 
 // @lc code=end
 
