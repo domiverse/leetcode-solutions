@@ -6,8 +6,6 @@ Chào mừng bạn đến với kho lưu trữ các lời giải LeetCode của 
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Domm2000&theme=dark)
 
-*(Lưu ý: Thay `your-leetcode-username` bằng tên tài khoản LeetCode của bạn)*
-
 ---
 
 ## 📚 Bảng các lời giải
