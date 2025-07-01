@@ -16,7 +16,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.java) | `Java` | 🟢 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.java) | `Java` | 🟧 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.java) | `Java` | 🟢 Easy |
-
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1480.running-sum-of-1d-array.java) | `Java` | 🟢 Easy |
 ---
 
 ### 💡 Quy trình làm việc của tôi
