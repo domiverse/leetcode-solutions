@@ -16,6 +16,6 @@ class Solution {
         }
         return 0;
     }
-}
+}g
 // @lc code=end
 
