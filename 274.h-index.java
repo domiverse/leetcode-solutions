@@ -1,3 +1,6 @@
+
+import java.util.Arrays;
+
 /*
  * @lc app=leetcode id=274 lang=java
  *
@@ -16,6 +19,6 @@ class Solution {
         }
         return 0;
     }
-}g
+}
 // @lc code=end
 
