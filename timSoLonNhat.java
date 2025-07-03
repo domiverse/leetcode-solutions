@@ -1,4 +1,4 @@
-public class TimSoLonNhat {
+public class timSoLonNhat {
 
     /**
      * Hàm này tìm và trả về số lớn nhất trong một mảng số nguyên.
