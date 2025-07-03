@@ -16,6 +16,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.java) | `Java` | 🟢 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.java) | `Java` | 🟧 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.java) | `Java` | 🟢 Easy |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/26.remove-duplicates-from-sorted-array.java) | `Java` | 🟢 Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/27.remove-element.java) | `Java` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-indexr.java) | `Java` | 🟧 Medium |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
