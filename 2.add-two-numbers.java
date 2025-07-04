@@ -1,3 +1,6 @@
+
+import java.util.List;
+
 /*
  * @lc app=leetcode id=2 lang=java
  *
@@ -17,21 +20,29 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode hangToa1, ListNode hangToa2) {
-        ListNode dauTau = new ListNode(0);
-        ListNode anhBocHang = dauTau;
-        int hangTon = 0;
-        while(hangToa1 != null || hangToa2 != null || hangTon != 0){
-            int bangKiemToa1 = (hangToa1 != null) ? hangToa1.val : 0;
-            int bangKiemToa2 = (hangToa2 != null) ? hangToa2.val : 0;
-            int tongHang = bangKiemToa1 + bangKiemToa2 + hangTon;
-            hangTon = tongHang / 10;
-            anhBocHang.next = new ListNode(tongHang % 10);
-            anhBocHang = anhBocHang.next;
-            if(hangToa1 != null) hangToa1 = hangToa1.next;
-            if(hangToa2 != null) hangToa2 = hangToa2.next;
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        int carry = 0;
+
+        while (hangToa1 != null || hangToa2 != null || carry > 0) {
+            int sum = carry;
+            if (hangToa1 != null) {
+                sum += hangToa1.val;
+                hangToa1 = hangToa1.next;
+            }
+            if (hangToa2 != null) {
+                sum += hangToa2.val;
+                hangToa2 = hangToa2.next;
+            }
+
+            carry = sum / 10;
+            current.next = new ListNode(sum % 10);
+            current = current.next;
         }
-        return dauTau.next;
+
+        return dummy.next;
     }
 }
+
 // @lc code=end
 
