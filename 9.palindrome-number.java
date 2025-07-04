@@ -7,16 +7,19 @@
 // @lc code=start
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0 || (x % 10 == 0 && x != 0)){
-            return false;
+        if (x < 0) {
+            return false; // Số âm không thể là palindrome
         }
-        int soDao = 0;
-        while(x > soDao){
-            int soHangDonVi = x % 10;
-            soDao = soDao * 10 + soHangDonVi;
-            x = x / 10;
+        int original = x;
+        int reversed = 0;
+
+        while (x > 0) {
+            int digit = x % 10; // Lấy chữ số cuối cùng của x
+            reversed = reversed * 10 + digit; // Thêm chữ số vào reversed
+            x /= 10; // Loại bỏ chữ số cuối cùng khỏi x
         }
-        return x == soDao || x == soDao / 10;
+
+        return original == reversed; // Kiểm tra xem số gốc có bằng số đảo ngược không
     }
 }
 // @lc code=end
