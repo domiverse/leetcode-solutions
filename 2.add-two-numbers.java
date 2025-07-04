@@ -1,6 +1,4 @@
 
-import java.util.List;
-
 /*
  * @lc app=leetcode id=2 lang=java
  *
