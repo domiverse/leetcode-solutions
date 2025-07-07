@@ -18,12 +18,12 @@ class Solution {
                 if(stack.isEmpty()){
                     return false;
                 }
-                char top = stack.pop();
-                if((s.charAt(i) == ')' && top != '(') ||
-                   (s.charAt(i) == '}' && top != '{') ||
-                   (s.charAt(i) == ']' && top != '[')){
-                    return false;
-                }
+                    char top = stack.pop();
+                    if((s.charAt(i) == ')' && top != '(') ||
+                    (s.charAt(i) == '}' && top != '{') ||
+                    (s.charAt(i) == ']' && top != '[')){
+                        return false;
+                    }
             }
         }
         return stack.isEmpty();
