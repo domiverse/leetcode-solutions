@@ -15,6 +15,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 |:---:|:--- |:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.java) | `Java` | 🟢 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.java) | `Java` | 🟧 Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/5.longest-palindromic-substring.java) | `Java` | 🟧 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.java) | `Java` | 🟢 Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/20.valid-parenthesesy.java) | `Java` | 🟢 Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/21.merge-two-sorted-lists.java) | `Java` | 🟢 Easy |
