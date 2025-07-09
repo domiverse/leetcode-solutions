@@ -32,7 +32,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1480.running-sum-of-1d-array.java) | `Java` | 🟢 Easy |
 ---
 
-### 💡 Quy trình làm việc của tôi
+### 💡 Quy trình làm việc của tôi 
 
 1.  **Chọn một bài toán:** Thường bắt đầu với các bài `Easy` để khởi động hoặc các bài `Medium` để thử thách bản thân.
 2.  **Tự giải quyết:** Cố gắng tìm ra lời giải trong một khoảng thời gian nhất định mà không xem đáp án.
