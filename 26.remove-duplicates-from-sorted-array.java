@@ -10,7 +10,7 @@ import java.util.Arrays;
 // @lc code=start
 class Solution {
     public int removeDuplicates(int[] nums) {
-        if (nums.length == 0) {
+        if (nums == null || nums.length == 0) {
             return 0; // Trả về 0 nếu mảng rỗng
         }
 
