@@ -25,6 +25,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/27.remove-element.java) | `Java` | 🟢 Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/28.find-the-index-of-the-first-occurrence-in-a-string.java) | `Java` | 🟢 Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/35.search-insert-position.java) | `Java` | 🟢 Easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/66.plus-one.java) | `Java` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
