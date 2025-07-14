@@ -1,7 +1,6 @@
 /*
  * @lc app=leetcode id=88 lang=java
  *
- * [88] Merge Sorted Array
  */
 
 // @lc code=start
