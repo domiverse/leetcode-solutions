@@ -13,14 +13,14 @@ class Solution {
         if(nums == null || nums.length == 0) {
             return 0;
         }
-        int soDocLap = 1;
+        int uniqueCount = 1;
         for(int i = 1; i< nums.length; i++){
-            if(nums[i] != nums[soDocLap - 1]){
-                nums[soDocLap] = nums[i];
-                soDocLap++;
+            if(nums[i] != nums[uniqueCount - 1]){
+                nums[uniqueCount] = nums[i];
+                uniqueCount++;
             }
         }
-        return soDocLap;
+        return uniqueCount;
     }
 }
 // @lc code=end
