@@ -27,7 +27,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/35.search-insert-position.java) | `Java` | 🟢 Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/58.length-of-last-word.java) | `Java` | 🟢 Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/66.plus-one.java) | `Java` | 🟢 Easy |
-| 66 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/67.add-binary.java) | `Java` | 🟢 Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/67.add-binary.java) | `Java` | 🟢 Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/88.merge-sorted-array.java) | `Java` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
