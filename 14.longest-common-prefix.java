@@ -8,19 +8,19 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         // Kiểm tra xem mảng có rỗng không
-        if(strs == null || strs.length == 0){
-            return "";
+        if (strs == null || strs.length == 0) {
+            return ""; // Trả về chuỗi rỗng nếu mảng rỗng
         }
-        // Giả sử chuỗi đầu tiên là tiền tố chung
-        String prefix = strs[0];
-            // So sánh với từng chuỗi trong mảng
-                // Nếu không phải tiền tố, cắt bớt
-               for(int i = 1; i < strs.length; i++){
-                while(strs[i].indexOf(prefix) !=0){
-                    prefix = prefix.substring(0, prefix.length()-1);
+        String prefix = strs[0]; // Giả sử chuỗi đầu tiên là tiền tố chung
+        for (int i = 1; i < strs.length; i++) { // Duyệt qua các chuỗi còn lại
+            while (strs[i].indexOf(prefix) != 0) { // Kiểm tra xem tiền tố có phải là tiền tố chung không
+                prefix = prefix.substring(0, prefix.length() - 1); // Nếu không, giảm dần độ dài của tiền tố
+                if (prefix.isEmpty()) { // Nếu tiền tố trở thành rỗng
+                    return ""; // Trả về chuỗi rỗng
                 }
-               }
-               return prefix;
+            }
+        }
+        return prefix; // Trả về tiền tố chung dài nhất
     }
 }
 // @lc code=end
