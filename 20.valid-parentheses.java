@@ -10,6 +10,7 @@ class Solution {
         if (s == null || s.length() % 2 != 0) { // kiểm tra độ dài chuỗi
             return false;  // nếu chuỗi null hoặc độ dài lẻ thì không thể là chuỗi hợp lệ
         }
+        
         Stack<Character> stack = new Stack<>(); // sử dụng ngăn xếp để kiểm tra tính hợp lệ
         for (char c : s.toCharArray()) { // duyệt từng ký tự trong chuỗi
             if (c == '(' || c == '{' || c == '[') { // nếu là dấu mở ngoặc thì đẩy vào ngăn xếp
@@ -27,6 +28,7 @@ class Solution {
             }
         }
         // sau khi duyệt hết chuỗi, nếu ngăn xếp còn chứa dấu mở ngoặc thì chuỗi không hợp lệ
+
         return stack.isEmpty(); // nếu ngăn xếp rỗng thì chuỗi là hợp lệ
     }
 }
