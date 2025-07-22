@@ -26,6 +26,7 @@ class Solution {
                 }
             }
         }
+        // sau khi duyệt hết chuỗi, nếu ngăn xếp còn chứa dấu mở ngoặc thì chuỗi không hợp lệ
         return stack.isEmpty(); // nếu ngăn xếp rỗng thì chuỗi là hợp lệ
     }
 }
