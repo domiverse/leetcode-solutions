@@ -25,19 +25,6 @@ class Solution {
         //Trả về độ dài của từ cuối cùng
         return length;
     }
-}// ví dụ: "Hello World" thì độ dài của từ cuối cùng là 5
-// ví dụ: "   " thì độ dài của từ cuối cùng là 0    
-// ví dụ: "Hello" thì độ dài của từ cuối cùng là 5
-// ví dụ: "Hello World   " thì độ dài của từ cuối cùng là 5
-// ví dụ: "   Hello World" thì độ dài của từ cuối cùng là 5
-//cho chuỗi mẫu, code sẽ chạy như sau:
-// "Hello World" -> i = 10, length = 0  
-// Bỏ qua khoảng trắng -> i = 9, length = 0
-// Đếm từ cuối cùng -> i = 8, length = 1 (W)    
-// i = 7, length = 2 (o)
-// i = 6, length = 3 (r)
-// i = 5, length = 4 (l)
-// i = 4, length = 5 (d)
-// Kết thúc vòng lặp, trả về length = 5
+}
 // @lc code=end
 
