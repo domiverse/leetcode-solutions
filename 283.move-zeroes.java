@@ -7,17 +7,17 @@
 // @lc code=start
 class Solution {
     public void moveZeroes(int[] nums) {
-        if(nums == null || nums.length <= 1){
-            return;
-        }
-        int left = 0;
-        for(int right = 0; right < nums.length; right++){
-            if(nums[right] != 0){
-                int temp = nums[left];
-                nums[left] = nums[right];
-                nums[right] = temp;
-                left++;
+        if (nums == null || nums.length == 0) return; // Kiểm tra mảng rỗng hoặc null
+        int lastNonZeroIndex = 0; // Chỉ số của phần tử khác không cuối cùng
+        for (int i = 0; i < nums.length; i++) { // Duyệt qua từng phần tử trong mảng
+            if (nums[i] != 0) { // Nếu phần tử khác không
+                nums[lastNonZeroIndex] = nums[i]; // Đặt phần tử khác không vào vị trí cuối cùng của các phần tử khác không
+                lastNonZeroIndex++; // Tăng chỉ số của phần tử khác không cuối cùng
             }
+        }
+        // Điền các phần tử còn lại bằng 0
+        for (int i = lastNonZeroIndex; i < nums.length; i++) {
+            nums[i] = 0; // Đặt các phần tử còn lại thành 0
         }
     }
 }
