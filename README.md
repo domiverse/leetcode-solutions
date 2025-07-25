@@ -30,6 +30,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/67.add-binary.java) | `Java` | 🟢 Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrt-x/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/69.sqrt-x.java) | `Java` | 🟢 Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/70.climbing-stairs.java) | `Java` | 🟢 Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/83.remove-duplicates-from-sorted-list.java) | `Java` | 🟢 Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/88.merge-sorted-array.java) | `Java` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
