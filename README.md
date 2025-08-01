@@ -14,7 +14,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | # | Tên bài toán | Lời giải | Ngôn ngữ | Độ khó |
 |:---:|:--- |:---:|:---:|:---:|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.py) | `Java` | 🟢 Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.java) | `Java` | 🟧 Medium |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.py) | `Python` | 🟧 Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/5.longest-palindromic-substring.java) | `Java` | 🟧 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.java) | `Java` | 🟢 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/13.roman-to-integer.java) | `Java` | 🟢 Easy |
