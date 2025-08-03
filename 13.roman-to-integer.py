@@ -23,8 +23,6 @@ class Solution(object):
         
         total = 0 # Biến total để lưu trữ tổng giá trị
         prev_value = 0 # Biến prev_value để lưu trữ giá trị của ký tự trước đó
-        
-    
 
         for char in s: # Duyệt qua từng ký tự trong chuỗi La Mã
             current_value = roman_map[char] # Lấy giá trị của ký tự hiện tại từ bản đồ
