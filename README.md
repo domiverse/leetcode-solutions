@@ -26,7 +26,6 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/27.remove-element.java) | `Java` | 🟢 Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/28.find-the-index-of-the-first-occurrence-in-a-string.java) | `Java` | 🟢 Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/35.search-insert-position.java) | `Java` | 🟢 Easy |
-
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/58.length-of-last-word.java) | `Java` | 🟢 Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/66.plus-one.java) | `Java` | 🟢 Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/67.add-binary.java) | `Java` | 🟢 Easy |
