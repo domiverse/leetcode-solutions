@@ -24,7 +24,6 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/21.merge-two-sorted-lists.java) | `Java` | 🟢 Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/26.remove-duplicates-from-sorted-array.java) | `Java` | 🟢 Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/27.remove-element.java) | `Java` | 🟢 Easy |
-
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/28.find-the-index-of-the-first-occurrence-in-a-string.java) | `Java` | 🟢 Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/35.search-insert-position.java) | `Java` | 🟢 Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/58.length-of-last-word.java) | `Java` | 🟢 Easy |
