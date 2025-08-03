@@ -21,7 +21,6 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/13.roman-to-integer.py) | `Python` | 🟢 Easy |
 
 | 14 | [Longest Common Prefix  ](https://leetcode.com/problems/longest-common-prefix/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/14.longest-common-prefix.java) | `Java` | 🟢 Easy |
-
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/20.valid-parenthesesy.java) | `Java` | 🟢 Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/21.merge-two-sorted-lists.java) | `Java` | 🟢 Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/26.remove-duplicates-from-sorted-array.java) | `Java` | 🟢 Easy |
