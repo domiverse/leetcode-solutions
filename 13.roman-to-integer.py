@@ -21,7 +21,6 @@ class Solution(object):
             'M': 1000 # Một nghìn   
         } # Tạo một từ điển để ánh xạ ký tự La Mã sang giá trị số nguyên
 
-
         total = 0 # Biến total để lưu trữ tổng giá trị
         prev_value = 0 # Biến prev_value để lưu trữ giá trị của ký tự trước đó
 
