@@ -35,6 +35,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/88.merge-sorted-array.java) | `Java` | 🟢 Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/94.binary-tree-inorder-traversal.py) | `Python` | 🟢 Easy |
 | 100 | [Merge Sorted Array](https://leetcode.com/problems/same-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/100.same-tree.py) | `Python` | 🟢 Easy |
+| 101 | [Merge Sorted Array](https://leetcode.com/problems/symmetric-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/101.symmetric-tree.py) | `Python` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
