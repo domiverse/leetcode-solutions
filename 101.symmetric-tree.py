@@ -19,11 +19,11 @@ class Solution(object):
         """
         return self.isMirror(root, root) # Kiểm tra xem cây có đối xứng hay không   
 
-    def isMirror(self, t1, t2): # Hàm kiểm tra xem hai cây con có đối xứng hay không
+    def isMirror(self, t1, t2):  # Hàm kiểm tra xem hai cây con có đối xứng hay không
         if not t1 and not t2: # Nếu cả hai nút đều là None, chúng là đối xứng
             return True # Nếu cả hai nút đều là None, chúng là đối xứng
         if not t1 or not t2: # Nếu một trong hai nút là None, chúng không đối xứng
-            return False # Nếu một trong hai nút là None, chúng không đối xứng
+            return False   # Nếu một trong hai nút là None, chúng không đối xứng
         return (t1.val == t2.val) and self.isMirror(t1.left, t2.right) and self.isMirror(t1.right, t2.left) # So sánh giá trị của hai nút và đệ quy kiểm tra các nút con bên trái và bên phải
 # @lc code=end
 
