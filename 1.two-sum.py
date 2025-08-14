@@ -1,17 +1,12 @@
 #
-# @lc app=leetcode id=1 lang=python
+# @lc app=leetcode id=1 lang=python3
 #
 # [1] Two Sum
 #
 
 # @lc code=start
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         if not nums:  # Kiểm tra xem danh sách có rỗng không
             return [] # Trả về danh sách rỗng nếu rỗng
         num_dict = {} # Tạo một từ điển để lưu trữ các số và chỉ mục của chúng
