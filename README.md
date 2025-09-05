@@ -38,6 +38,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/101.symmetric-tree.py) | `Python` | 🟢 Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tre/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/104.maximum-depth-of-binary-tree.py) | `Python` | 🟢 Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/108.convert-sorted-array-to-binary-search-tree.py) | `Python` | 🟢 Easy |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/110.balanced-binary-tree.py) | `Python` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
