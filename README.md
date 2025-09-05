@@ -35,7 +35,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/88.merge-sorted-array.java) | `Java` | 🟢 Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/94.binary-tree-inorder-traversal.py) | `Python` | 🟢 Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/100.same-tree.py) | `Python` | 🟢 Easy |
-| 101 | [Merge Sorted Array](https://leetcode.com/problems/symmetric-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/101.symmetric-tree.py) | `Python` | 🟢 Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/101.symmetric-tree.py) | `Python` | 🟢 Easy |
 | 108 | [Merge Sorted Array](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/108.convert-sorted-array-to-binary-search-tree.py) | `Python` | 🟢 Easy |
 | 104 | [Merge Sorted Array](https://leetcode.com/problems/maximum-depth-of-binary-tre/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/104.maximum-depth-of-binary-tree.py) | `Python` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
