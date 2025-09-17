@@ -24,7 +24,7 @@ class Solution(object):
         current = root # Bắt đầu từ nút gốc
         while current or stack: # Lặp cho đến khi không còn nút nào để xử lý
             while current: # Duyệt đến nút trái nhất
-                stack.append(current) # thêm nút hiện tại vào ngăn xếp
+                stack.append(current) # Thêm nút hiện tại vào ngăn xếp
                 current = current.left # Di chuyển sang nút trái
             current = stack.pop() # Lấy nút trên cùng của ngăn xếp
             result.append(current.val) # Thêm giá trị của nút vào kết quả
