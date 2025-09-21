@@ -18,7 +18,7 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        if not p and not q: # Nếu cả hai nút đều là None, chúng là giống nhau
+        if not p and not q: # nếu cả hai nút đều là None, chúng là giống nhau
             return True # Nếu cả hai nút đều là None, chúng là giống nhau
         if not p or not q: # Nếu một trong hai nút là None, chúng không giống nhau
             return False # Nếu một trong hai nút là None, chúng không giống nhau
