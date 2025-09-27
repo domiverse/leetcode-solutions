@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
-        if not columnTitle: # Kiểm tra nếu chuỗi rỗng
+        if not columnTitle: # kiểm tra nếu chuỗi rỗng
             return 0 # Trả về 0 nếu chuỗi rỗng
         result = 0 # Biến để lưu trữ kết quả
         for char in columnTitle: # Duyệt qua từng ký tự trong chuỗi
