@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def convertToTitle(self, columnNumber: int) -> str:
-        if columnNumber <= 0: # kiểm tra nếu số cột không hợp lệ
+        if columnNumber <= 0: # Kiểm tra nếu số cột không hợp lệ
             return "" # Trả về chuỗi rỗng nếu số cột không hợp lệ
         result = [] # Khởi tạo danh sách để lưu trữ các ký tự
         while columnNumber > 0: # Lặp cho đến khi số cột trở về 0
