@@ -10,7 +10,7 @@ import java.util.Arrays;
 // @lc code=start
 class Solution {
     public int removeDuplicates(int[] nums) {
-        if (nums.length == 0) { // kiểm tra mảng rỗng
+        if (nums.length == 0) { // Kiểm tra mảng rỗng
             return 0; // Trả về 0 nếu mảng rỗng
         } // Nếu mảng không rỗng, bắt đầu xử lý
         // Biến uniqueCount để đếm số lượng phần tử duy nhất
