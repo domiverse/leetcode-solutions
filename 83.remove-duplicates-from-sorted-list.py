@@ -12,7 +12,7 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head: # Kiểm tra nếu danh sách rỗng
+        if not head: # kiểm tra nếu danh sách rỗng
             return head # Trả về danh sách rỗng
         current = head # Khởi tạo con trỏ hiện tại
         while current and current.next: # Lặp qua danh sách
