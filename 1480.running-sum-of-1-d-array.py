@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        if not nums: # Kiểm tra danh sách rỗng
+        if not nums: # kiểm tra danh sách rỗng
             return [] # Trả về danh sách rỗng nếu đầu vào rỗng
         running_sum = [nums[0]] # Khởi tạo danh sách chạy
         for i in range(1, len(nums)): # Tính tổng dồn
