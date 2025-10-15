@@ -13,7 +13,7 @@
 #         self.right = right
 class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
-        if not root:  # Nếu cây rỗng
+        if not root:  # nếu cây rỗng
             return 0  # Trả về 0    
         if root.left and not root.left.left and not root.left.right:  # Nếu nút trái là lá
             return root.left.val + self.sumOfLeftLeaves(root.right)  # Trả về giá trị của lá trái + đệ quy bên phải
