@@ -14,7 +14,7 @@
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
         if not root: # Nếu cây rỗng
-            return [] # Trả về danh sách rỗng
+            return [] # trả về danh sách rỗng
         from collections import defaultdict # Sử dụng defaultdict để đếm tần số
         count = defaultdict(int) # Khởi tạo bộ đếm
         def inorder(node): # Duyệt cây theo thứ tự trung vị
