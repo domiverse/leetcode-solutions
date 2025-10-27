@@ -15,7 +15,7 @@ from typing import List, Optional
 
 class Solution:
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
-        if not root: # nếu cây rỗng
+        if not root: # Nếu cây rỗng
             return [] # Trả về danh sách rỗng
         paths = [] # Khởi tạo danh sách đường dẫn
         self.dfs(root, "", paths) # Gọi hàm dfs để tìm đường dẫn
