@@ -19,6 +19,5 @@ class Solution:
             else:
                 high = middle - 1
         return low
-
 # @lc code=end
 
