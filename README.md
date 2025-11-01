@@ -43,6 +43,8 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/112.path-sum.py) | `Python` | 🟢 Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangl/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/118.pascals-triangle.py) | `Python` | 🟢 Easy |
 | 119 | [Pascal’s Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/119.pascals-triangle-ii.py) | `Python` | 🟢 Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/121.best-time-to-buy-and-sell-stock.py) | `Python` | 🟢 Easy |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/125.valid-palindrome.py) | `Python` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
