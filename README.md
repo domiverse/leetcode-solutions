@@ -47,7 +47,6 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/125.valid-palindrome.py) | `Python` | 🟢 Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/141.linked-list-cycle.py) | `Python` | 🟢 Easy |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/binary-tree-preorder-traversal/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/144.binary-tree-preorder-traversal.py) | `Python` | 🟢 Easy |
-
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
