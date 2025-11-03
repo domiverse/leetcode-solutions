@@ -53,8 +53,10 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 169 | [Majority Element](https://leetcode.com/majority-element/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/169.majority-element.py) | `Python` | 🟢 Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/excel-sheet-column-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/171.excel-sheet-column-number.py) | `Python` | 🟢 Easy |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/count-complete-tree-nodes/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/222.count-complete-tree-nodes.py) | `Python` | 🟢 Easy |
+| 226 | [Invert Binary Trees](https://leetcode.com/invert-binary-tree/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/226.invert-binary-tree.py) | `Python` | 🟢 Easy |
+| 257 | [Binary Tree Paths  ](https://leetcode.com/binary-tree-paths/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/257.binary-tree-paths.py) | `Python` | 🟢 Easy |
 | 274 | [H-index](https://leetcode.com/problems/h-index/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/274.h-index.java) | `Java` | 🟧 Medium |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroe/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/283.move-zeroes.java) | `Java` | 🟢 Easy |  
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/guess-number-higher-or-lower/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/374.guess-number-higher-or-lower.py) | `Python` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1255.maximum-score-words-formed-by-letters.java) | `Java` | 🟥 Hard |
