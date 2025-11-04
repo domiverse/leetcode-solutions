@@ -23,6 +23,6 @@ class Solution:
             elif res == 1:
                 low = middle + 1
             else:
-                high = middle -1
+                high = middle - 1
 # @lc code=end
 
