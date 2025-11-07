@@ -11,7 +11,7 @@ class Solution:
             return 0
         low, high = 0, len(nums) - 1
         while low <= high:
-            middle = (low + high) // 2
+            middle = low + (high - low) // 2
             if nums[middle] == target:
                 return middle
             elif nums[middle] < target:
