@@ -7,20 +7,24 @@
 # @lc code=start
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        low, high = len(matrix), len(matrix[0])
-        left, right = 0, low*high - 1
+        if not matrix or not matrix[0]:
+            return False
+        soHang, soCot = len(matrix), len(matrix[0])
+        low, high = 0, soHang * soCot - 1
+        while low <= high:
+            middle = low + (high - low) // 2
+            r, c = divmod(middle, soCot)
+            val = matrix[r][c]
 
-        while left <= right:
-            middle = left + (right - left) // 2
-            hang, cot = divmod(middle, high)
-            value = matrix[hang][cot]
-            if value == target:
+            if val == target:
                 return True
-            elif value < target:
-                left = middle + 1
-            else: 
-                right = middle - 1
+            elif val < target:
+                low = middle + 1
+            else:
+                high = middle - 1
         return False
+
+
 
 # @lc code=end
 
