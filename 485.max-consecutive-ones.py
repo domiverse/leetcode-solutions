@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
-        if not nums: # Kiểm tra danh sách rỗng
+        if not nums: # kiểm tra danh sách rỗng
             return 0 # Trả về 0 nếu danh sách rỗng
         max_count = 0 # Biến lưu trữ số 1 liên tiếp lớn nhất
         current_count = 0 # Biến lưu trữ số 1 liên tiếp hiện tại
