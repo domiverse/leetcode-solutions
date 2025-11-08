@@ -14,9 +14,11 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
+        if not n:
+            return -1
         low, high = 1, n
         while low <= high:
-            middle = (low + high) // 2
+            middle = low + (high - low) // 2
             res = guess(middle)
             if res == 0:
                 return middle
