@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
-        if not nums: # Kiểm tra danh sách rỗng
+        if not nums: # kiểm tra danh sách rỗng
             return 0 # Trả về 0 nếu danh sách rỗng 
         count = 0 # Khởi tạo biến đếm
         for num in nums: # Duyệt qua từng số trong danh sách
