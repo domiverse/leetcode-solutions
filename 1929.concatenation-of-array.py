@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        if not nums: #
+        if not nums: #j
             return [] 
         return nums + nums  
 # @lc code=end
