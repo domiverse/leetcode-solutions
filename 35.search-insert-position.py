@@ -17,7 +17,7 @@ class Solution:
             elif nums[middle] < target:
                 low = middle + 1
             else: 
-                high = middle -1 
+                high = middle - 1 
         return low 
 # @lc code=end
 
