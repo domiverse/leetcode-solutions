@@ -9,7 +9,7 @@ class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
         if not nums:
             return -1
-        low, high = 0, len(nums) -1
+        low, high = 0, len(nums) - 1
         while low <= high:
             middle = low + (high - low) // 2
             if nums[middle] == target: 
