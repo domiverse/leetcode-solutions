@@ -7,7 +7,7 @@
 # @lc code=start
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        if not nums:
+        if not nums:# 
             return -1
         low, high = 0, len(nums) - 1
         while low <= high:
