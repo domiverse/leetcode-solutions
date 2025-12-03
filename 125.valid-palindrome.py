@@ -22,5 +22,5 @@ class Solution:
                 return False
             left += 1
             right -= 1
-        return True # Trả về True nếu tất cả ký tự khớp
+        return True # Trả  về True nếu tất cả ký tự khớp
 # @lc code=end
