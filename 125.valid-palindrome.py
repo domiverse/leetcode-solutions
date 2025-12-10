@@ -20,7 +20,7 @@ class Solution:
                 continue
             if s[left] != s[right]:  # So sánh ký tự ở hai đầu
                 return False
-            left += 1
-            right -= 1
+            left += 1 #
+            right -= 1 #
         return True # Trả  về True  cả ký tự khớp
 # @lc code=end
