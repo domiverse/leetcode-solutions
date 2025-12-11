@@ -21,6 +21,6 @@ class Solution:
             if s[left] != s[right]:  # So sánh ký tự ở hai đầu
                 return False
             left += 1 #
-            right -= 1 #
+            right -= 1 #d
         return True # Trả  về True  cả ký tự khớp
 # @lc code=end
