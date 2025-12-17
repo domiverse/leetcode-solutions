@@ -18,6 +18,6 @@ class Solution:
                 low = middle + 1
             else:
                 high = middle - 1
-        return low #k
+        return low #ks
 # @lc code=end
 
