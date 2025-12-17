@@ -61,6 +61,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/guess-number-higher-or-lower/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/374.guess-number-higher-or-lower.py) | `Python` | 🟢 Easy |
 | 404 | [Sum of Left Leaves](https://leetcode.com/sum-of-left-leaves/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/404.sum-of-left-leaves.py) | `Python` | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/485.max-consecutive-ones.java) | `Java` | 🟢 Easy |
+
 | 1255 | [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1255.maximum-score-words-formed-by-letters.java) | `Java` | 🟥 Hard |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1295.find-numbers-with-even-number-of-digits.java) | `Java` | 🟢 Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1480.running-sum-of-1d-array.java) | `Java` | 🟢 Easy |
