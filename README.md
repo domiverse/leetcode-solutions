@@ -13,6 +13,7 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 
 | # | Tên bài toán | Lời giải | Ngôn ngữ | Độ khó |
 |:---:|:--- |:---:|:---:|:---:|
+
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.py) | `Python` | 🟢 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.py) | `Python` | 🟧 Medium |
 | 3 | [Add Two Numbers](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/3.longest-substring-without-repeating-characters.py) | `Python` | 🟧 Medium |
