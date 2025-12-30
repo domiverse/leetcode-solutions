@@ -16,7 +16,6 @@ Dưới đây là danh sách các bài toán tôi đã hoàn thành.
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/1.two-sum.py) | `Python` | 🟢 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/2.add-two-numbers.py) | `Python` | 🟧 Medium |
 | 3 | [Add Two Numbers](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/3.longest-substring-without-repeating-characters.py) | `Python` | 🟧 Medium 
-
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/5.longest-palindromic-substring.py) | `Python` | 🟧 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/9.palindrome-number.py) | `Python` | 🟢 Easy |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link 🔗](https://github.com/domiverse/leetcode-solutions/blob/main/13.roman-to-integer.py) | `Python` | 🟢 Easy |
