@@ -19,6 +19,6 @@ class Solution:
                 low = middle + 1
             else:
                 high = middle - 1
-        return high #asddh
+        return high #asdd
 # @lc code=end
 
