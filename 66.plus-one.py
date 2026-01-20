@@ -13,5 +13,5 @@ class Solution:
                     digits[i] += 1 # Tăng giá trị phần tử lên 1
                     return digits # Trả về danh sách đã cập nhật
                 digits[i] = 0 # Đặt giá trị phần tử thành 0
-            return [1] + digits # Thêm 1 vào đầu danh sáchd
+            return [1] + digits # Thêm 1 vào đầu danh sách
 # @lc code=end
